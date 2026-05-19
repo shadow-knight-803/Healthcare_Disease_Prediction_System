@@ -1,4 +1,4 @@
-# 🏥 Prediction of Disease Outbreaks
+# 🏥 Healthcare Disease Prediction System
 
 A **machine learning-powered** web application for predicting **Diabetes, Heart Disease, and Parkinson's Disease** using **Streamlit**.
 
